@@ -1,0 +1,6 @@
+[
+  {"task": "Frontend UI design", "skill": "UI/React", "difficulty": 3},
+  {"task": "Database schema", "skill": "SQL", "difficulty": 4},
+  {"task": "Model training", "skill": "ML", "difficulty": 5},
+  {"task": "Report writing", "skill": "Documentation", "difficulty": 2}
+]
